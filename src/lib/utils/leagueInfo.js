@@ -7,9 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>I was looking into Sleeper's API's to see what reporting I got get my hands on. Selfishly, I wanted to know what we spend(FAB) on average for different positions.</p> 
+  <p>I was looking into Sleeper's API's to see what reporting I got get my hands on. Selfishly, I wanted to know what we spend(FAB) on avg, by position.</p> 
   <p>That is when I found this "League Page" on github and at first glance it seemed pretty neat. At least from a desktop version perspective.</p>
-  <p>Check it out, let me know what you think. I obviouslly didn't do much, but deploy it.</p>
+  <p>Check it out, let me know what you think. There are defintely a few bugs and the Trophy/Award page doesn't load properly, but I'm working on it.</p>
  `;
 
 /*   STEP 3   */
